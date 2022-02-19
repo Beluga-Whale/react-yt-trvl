@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
-
+// * 16.50 นาที
 const Navbar = () => {
     return (
         <>
